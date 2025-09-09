@@ -20,6 +20,11 @@ The app has a landing screen with two buttons:
 - **Kotlin**  
 - **Jetpack Compose** (UI)  
 - **Retrofit** (Networking)  
-- **Coil** (Image loading)  
+- **Coil** (Image loading)
+
+## 📱 Screenshots
+![](https://github.com/Felix-Red/DuckProject/blob/master/darkModeScreenshot.png)
+![](https://github.com/Felix-Red/DuckProject/blob/master/homeScreenLightMode.jpg)
+![](https://github.com/Felix-Red/DuckProject/blob/master/landScapeListOfDucks.jpg)
 
 
